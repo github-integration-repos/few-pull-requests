@@ -1,1 +1,1 @@
-Merged pull request.
+Squash merged pull request.
